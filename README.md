@@ -53,7 +53,7 @@ It helps identify:
 🎓 *Thompson Rivers University — Machine Learning (ADSC4710)*  
 📍 Kamloops, British Columbia, Canada  
 
-🔗 [Tableau Public Profile](https://public.tableau.com/app/profile/huynh.hiep.tran.alex)  
+🔗 [Tableau Public Profile](https://public.tableau.com/app/profile/alex.tran7019)  
 📧 alextran21211@gmail.com  
 
 ---
